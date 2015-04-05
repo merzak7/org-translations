@@ -1,9 +1,9 @@
 elementaryos.org Translations
 =============================
 
-DEPRECATED! This repository will not be used anymore. Please don't Translate it anymore.
+DEPRECATED! This repository will be deprecated in a few days time. However if you'd like, you can help translate our new website. Get more information on that at http://beta.elementary.io/get-involved.
 
-This repository contains all translation strings for the elementaryos.org website.
+This repository contains all translation strings for the old elementaryos.org website.
 
 
 ## Translation guidelines
