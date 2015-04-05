@@ -1,6 +1,8 @@
 elementaryos.org Translations
 =============================
 
+DEPRECATED! This repository will not be used anymore. Please don't Translate it anymore.
+
 This repository contains all translation strings for the elementaryos.org website.
 
 
