@@ -8,28 +8,28 @@ $lang['gi_heading2']                    = "التصميم";
 $lang['gi_heading3']                    = "الترجمة";
 $lang['gi_heading4']                    = "الويب";
 
-$lang['gi_sec1para1']                   = "Our desktop environment and all it's apps are built using Vala, GTK+, Clutter, Cairo, Granite, and a number of other free libraries. All of our code is hosted on Launchpad.net, a free service for open source projects. We're always looking for contributors of all skill levels to help squash bugs and introduce new features.";
-$lang['gi_sec1link1']                   = "Browse our desktop code";
-$lang['gi_sec1link2']                   = "Browse our apps' code";
-$lang['gi_sec1link3']                   = "See our open bug reports";
-$lang['gi_sec1link4']                   = "Read our mailing list";
+$lang['gi_sec1para1']                   = "بيئة سطح المكتب وكل تطبيقاتها أنشأنها بإستخدام Vala، GTK+، Clutter، Cairo، Granite، ، وعدد من المكتبات المجانية. كل الكود الخاص بنا مستضاف في Launchpad.net، وهي خدمة مجانية للمشاريع المفتوحة المصدر. نحن نبحث دائما عن مساهمين من جميع المستويات ليساعدونا في حل الأخطاء وتقديم خدمات جديدة.";
+$lang['gi_sec1link1']                   = "تصفح كود سطح المكتب";
+$lang['gi_sec1link2']                   = "تصفح كود تطبيقاتنا";
+$lang['gi_sec1link3']                   = "رؤية تقارير الأخطاء المفتوحة";
+$lang['gi_sec1link4']                   = "اقرأ قائمتنا البريدية";
 
-$lang['gi_sec2para1']                   = "Every project begins with an idea. Our Design Team takes ideas and turns them into road maps. We break up design into two components:";
-$lang['gi_sec2subpara1']                = "A great place for visual designers to get started is by sharing mockups with our deviantART group.";
-$lang['gi_sec2subpara2']                = "We use a system on Launchpad called Blueprints to create detailed explanations of new features.";
-$lang['gi_sec2subhead1']                = "Visual Design.";
-$lang['gi_sec2subhead2']                = "Interactive Design.";
-$lang['gi_sec2link1']                   = "View our deviantART group";
-$lang['gi_sec2link2']                   = "Browse our blueprints";
+$lang['gi_sec2para1']                   = "كل مشروع يبدأ بفكرة. فريق التصميم لدينا يأخذ الأفكار ويحولها إلى أهداف. التصميم ينقسم إلى قسمين:";
+$lang['gi_sec2subpara1']                = "أفضل مكان للمصممين للبدء هو عن طريق مشاركة أعمالهم مع مجموعتنا على deviantART.";
+$lang['gi_sec2subpara2']                = "نحن نستخدم نظام على Launchpad يسمى Blueprints لإنشاء شرح مفصل عن الميزات الجديدة.";
+$lang['gi_sec2subhead1']                = "التصميم المرئي.";
+$lang['gi_sec2subhead2']                = "التصميم التفاعلي.";
+$lang['gi_sec2link1']                   = "تصفح مجموعتنا على deviantART";
+$lang['gi_sec2link2']                   = "تصفح blueprints الخاص بنا";
 
-$lang['gi_sec3para1']                   = "elementary is created and used by people from around the entire world; help us make peoples' experiences even better by translating it to more languages. Launchpad has a built-in tool called Rosetta that enables collaborative translations online.";
-$lang['gi_sec3para2']                   = "We're also working on getting much of the content on our website available in multiple languages. This isn't available at this time, but stay tuned for more info.";
-$lang['gi_sec3link1']                   = "Get more info about Rosetta";
-$lang['gi_sec3link2']                   = "View our translations page";
+$lang['gi_sec3para1']                   = "Elementary أنشأها واستعمالها أناس من حول العالم، ساعدنا لجعل تجربة الناس أفضل من خلال ترجمتها إلى كل لغات العالم.Launchpad  لديها اداة مدمجة تسمى Rosetta  والتي تسمح بترجمة تعاونية اونلاين.";
+$lang['gi_sec3para2']                   = "نحن نعمل أيضا على الحصول على الكثير من المحتوى على موقعنا على الانترنت متاحة في لغات متعددة. هذا غير متوفر في هذا الوقت، ولكن لا تنزعج لمزيد من المعلومات.";
+$lang['gi_sec3link1']                   = "للمزيد من المعلومات حول Rosetta";
+$lang['gi_sec3link2']                   = "لرؤية صفحة ترجماتنا";
 
-$lang['gi_sec4para1']                   = "Our website is built using HTML, CSS, PHP, MySQL, and JavaScript. We're always looking for people experienced in those areas who would like to contribute and make it even better. Most of the design work is done by our design team, but we love design ideas and feedback from our web team as well.";
+$lang['gi_sec4para1']                   = "أنشئ موقعنا بإستعمال إتش تي أم أل HTML و سي أس أس CSS والبي إتش بي PHP والجافاسكريبت JavaScript. نحن نبحث دائما عن أشخاص متمرسين في هذه المجالات للمساعدتنا فب جعله أفضل . أغلب أعمال التصميم تمت بواسطة فريق التصميم الخاص بنا، لكننا نحب أفكار عن التصاميم المبتكرة والتواصل مع فريق الويب أيضا.";
 
-$lang['gi_irclink']                     = "Join us on Internet Relay Chat (IRC)";
-$lang['gi_web_report_bug'] = "Report a website bug";
-$lang['gi_web_translations'] = "Help translate this website";
-$lang['gi_view_design_submission'] = "View our design submission how-to";
+$lang['gi_irclink']                     = "إنضم إلينا في خدمة (IRC)";
+$lang['gi_web_report_bug'] = "الإبلاغ عن خطأ في الموقع";
+$lang['gi_web_translations'] = "ساعدنا في ترجمة هذا الموقع";
+$lang['gi_view_design_submission'] = "شاهد كيف قمنا بالتصاميم المقدمة";
