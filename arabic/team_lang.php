@@ -1,11 +1,11 @@
 <?php
 
-$lang['team_title']                     = "Our Teams";
-$lang['team_subtitle']                  = "It takes a village to build an operating system";
-$lang['team_mod_descr']                 = "Champions of Justice. Defenders of Peace. This team of dedicated moderators exists to protect and serve.";
-$lang['team_core_descr']                = "One team to rule them all. One team to bind them. One team to bring them all, and in the darkness, bind them.";
-$lang['team_press_descr']               = "Fast Paced, interconnect, ahead of the curve, and pushing you to the edge of your seat.";
-$lang['team_dev_descr']                 = "Sleep is for the weak. They eat in terms of megabytes, speak in algorithms, and bleed binary.";
-$lang['team_web_descr']                 = "They live amongst the clouds, weaving endless webs of cross-browser compatibility. What you dream, they create.";
-$lang['team_design_descr']              = "Call them obsessive compulsive, detail-orientated, or just plain pixel pushers. Design isn't what they do, it's what they are.";
+$lang['team_title']                     = "فرقنا";
+$lang['team_subtitle']                  = "يتطلب مدينة لإنشاء نظام تشغيل";
+$lang['team_mod_descr']                 = "أبطال العدل، المدافعين عن السلام. هذه الفرق المخصصة وجدت للحماية والخدمة.أبطال العدل، المدافعين عن السلام. هذه الفرق المخصصة وجدت للحماية والخدمة.";
+$lang['team_core_descr']                = "فريق واحد لحكمهم كلهم. فريق واحد لربطهم. فريق واحد لجلبهم وربطهم كلهم، في الظلام.";
+$lang['team_press_descr']               = "سريع الخطى و التواصل. في الطليعة. ويدفعك إلى حافة مقعدك.";
+$lang['team_dev_descr']                 = "النوم للضعفاء. يأكلون الميغا بايتات، ويتحدثون بالخوارزميات، وينزفون الثنائيات.";
+$lang['team_web_descr']                 = "يعيشون بين الغيوم، وينسجون ويب لا نهاية له و متوافق مع كل المتصفحات. يخلقون ما تحلم به.";
+$lang['team_design_descr']              = "سمهم الموسوسون، متابعي التفاصيل، أو مروجي البكسل. التصميم ليس ما يقومون به، بل هم.";
 
