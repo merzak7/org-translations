@@ -22,17 +22,17 @@ $lang['home_expl5']         = "وقد تم تصميم لونا من الألف �
 $lang['home_point6']        = "كامل المميزات";
 $lang['home_expl6']         = "عند تثبيت elementary، أنت لم تقم بمجرد تثبيت نظام التشغيل. بل أنت تثبت جناح ممتاز مصمم خصيصا للتطبيقات التي تتيح لك الحصول على تصفح سريع وسهل على شبكة الإنترنت و التحقق من بريدك الالكتروني، والاستماع إلى الموسيقى، ومعالجة المهام اليومية .";
 $lang['home_app1']          = "تصفح حسب الألبومات، انشئ قوائم التشغيل، وقيم الأغاني، وتعرف على موسيقى مشابهة.";
-$lang['home_app2']          = "Surf the web with the speed of the same rendering engine as Google Chrome and Apple Safari.";
-$lang['home_app3']          = "Connect with Jabber, Facebook, Google Talk, AIM, IRC, Yahoo! and more.";
-$lang['home_app4']          = "View multiple accounts, get desktop notifications, and read your mail in conversations.";
-$lang['home_app5']          = "Import, Organize, and Edit photos. Make a slideshow. Share with Facebook or Flickr.";
-$lang['home_app6']          = "Always stay on the cutting edge. Get updates right away, forever, for free.";
-$lang['home_point7']        = "Fully Accessible";
-$lang['home_expl7']         = "Different kinds of people from all over the world build elementary, so it’s no surprise that Luna is built with this in mind. It comes stocked with apps and tweaks for the hearing and sight impaired, as well as assistance for the motor impaired.";
-$lang['home_point8']        = "Safe and Secure";
-$lang['home_expl8']         = "Luna is built on the rock-solid foundation of Linux (the same software that powers the US Department of Defense, the Bank of China, and more). It has no known viruses, which means no pesky anti-virus software to slow down your system. Luna receives security updates as soon as a problem is discovered, meaning there’s no waiting around for the most secure system.";
+$lang['home_app2']          = "تصفح الإنترنت مع سرعة نفس جعل المحرك كما جوجل كروم وأبل سفاري.";
+$lang['home_app3']          = "تواصل مع جابر، الفيسبوك، مجموعات نقاش، AIM، IRC، وياهو وغيرها.";
+$lang['home_app4']          = "عرض حسابات متعددة، والحصول على تنبيهات سطح المكتب، وقراءة البريد الخاص بك في المحادثات.";
+$lang['home_app5']          = " استيراد وتنظيم وتحرير الصور. جعل عرض الشرائح. مشاركتها مع الفيسبوك أو فليكر.";
+$lang['home_app6']          = "البقاء دائما في طليعة. الحصول على التحديثات على الفور، إلى الأبد، مجانا.";
+$lang['home_point7']        = " يمكن الوصول إليها بشكل كامل";
+$lang['home_expl7']         = "أنواع مختلفة من الناس من جميع أنحاء العالم بناءelementary، لذلك ليس من المستغرب أن لونا بنيت مع هذا في الاعتبار. يأتي مخزنة مع تطبيقات والقرص للجلسة وضعاف البصر، فضلا عن تقديم المساعدة لضعاف السيارات.";
+$lang['home_point8']        = " سليمة وآمنة";
+$lang['home_expl8']         = "بنيت لونا على أساس الصخور الصلبة لينكس (نفس البرامج التي القوى وزارة الدفاع الأمريكية، وبنك الصين، وأكثر من ذلك). انه ليس لديها الفيروسات المعروفة، وهو ما يعني عدم وجود برامج مكافحة الفيروسات المزعجة لإبطاء النظام الخاص بك. لونا يتلقى تحديثات الأمان بمجرد اكتشاف مشكلة، وهذا يعني ليس هناك انتظار في جميع أنحاء لنظام الأكثر أمانا.";
 $lang['home_point9']        = "100% Free";
-$lang['home_expl9']         = "elementary OS is completely free, both in terms of pricing and licensing. There are no costly fees, confusing user agreements, trial periods, or restrictive copy protections. You can install Luna on as many computers as you want or even copy it and give it away to your friends.";
-$lang['home_point10']       = "Ready for Apps";
-$lang['home_expl10']        = "elementary OS comes with a built-in app store, stocked with thousands of free apps. Quickly find what you’re looking for without worrying about malware from the web.";
-$lang['home_whatis']        = "What is"; // Whole sentence reads "what is elementary OS?"
+$lang['home_expl9']         = "elementary OS هو خال تماما، سواء من حيث التسعير والترخيص. لا توجد رسوم باهظة التكلفة، الخلط بين اتفاقيات المستخدم، وفترات المحاكمة، أو الحماية نسخة تقييدا. يمكنك تثبيت لونا على العديد من أجهزة الكمبيوتر كما تريد أو حتى نسخها وتعطيه بعيدا إلى أصدقائك.";
+$lang['home_point10']       = " جاهزة للتطبيقات";
+$lang['home_expl10']        = "elementary OS  يأتي مع المتجر المدمج في، مخزنة مع آلاف التطبيقات المجانية. العثور بسرعة على ما كنت تبحث عن دون الحاجة إلى القلق حول البرامج الضارة من شبكة الإنترنت.";
+$lang['home_whatis']        = "ما هو"; // Whole sentence reads "what is elementary OS?"
